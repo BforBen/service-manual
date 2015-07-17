@@ -1,7 +1,7 @@
 safe:        true
 
 title:       "Service Design Manual"
-baseurl:     /service-manual/
+baseurl:     /service-manual
 username:    GuildfordBC
 
 source:      ./
