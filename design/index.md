@@ -3,6 +3,7 @@ layout: default
 title: "Design"
 category: design
 sort_order: 1
+breadcrumb: Design
 ---
 
 <div class="page-header">
