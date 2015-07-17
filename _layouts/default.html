@@ -19,7 +19,7 @@
         <div class="col-xs-12">
             
             <ol class="breadcrumb">
-            <li><a href="{{ site.baseurl }}../">Home</a></li>
+            <li><a href="{{ site.baseurl }}/../">Home</a></li>
             <li><a href="{{ site.baseurl }}/">Service Design Manual</a></li>
             {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
             {% assign splitted_url_parts = page_url_without_index_html | split: '/' %}
