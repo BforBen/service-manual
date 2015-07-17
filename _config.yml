@@ -10,7 +10,7 @@ future:      true
 lsi:         false
 highlighter: pygments
 markdown:    kramdown
-permalink:   pretty
+permalink:   date
 
 exclude:
   - compile.sh
